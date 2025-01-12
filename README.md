@@ -49,9 +49,7 @@ Before you begin, ensure you have the following installed:
 
 To run the project locally, use the following command:
 
-    ```sh
     npm run dev
-    ```
 
 This will start the development server on http://localhost:3000.
 
